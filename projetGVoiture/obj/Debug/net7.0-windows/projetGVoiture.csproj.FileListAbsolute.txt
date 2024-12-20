@@ -1,0 +1,196 @@
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.exe
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.deps.json
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.runtimeconfig.json
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.pdb
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.AssemblyReference.cache
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture_MarkupCompile.cache
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture_MarkupCompile.lref
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\App.baml
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.g.resources
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.AssemblyInfoInputs.cache
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.AssemblyInfo.cs
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.CoreCompileInputs.cache
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.CopyComplete
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\refint\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.pdb
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.genruntimeconfig.cache
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\ref\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\acceuil.g.cs
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\acceuil.baml
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\Achat.g.cs
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\Achat.baml
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\Facture.g.cs
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\Voiture.g.cs
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\Facture.baml
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\Voiture.baml
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\Ajoutdevoiture.g.cs
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\°°DELL°°\Desktop\Nouveau dossier\projets\projetGVoiture\obj\Debug\net7.0-windows\Ajoutdevoiture.baml
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.exe
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.deps.json
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.runtimeconfig.json
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.pdb
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.AssemblyReference.cache
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Acceuil.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Achat.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Ajoutdevoiture.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Facture.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Voiture.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture_MarkupCompile.cache
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture_MarkupCompile.lref
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\App.baml
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Acceuil.baml
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Achat.baml
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Ajoutdevoiture.baml
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Facture.baml
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Voiture.baml
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.g.resources
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.AssemblyInfoInputs.cache
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.AssemblyInfo.cs
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.CoreCompileInputs.cache
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.CopyComplete
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\refint\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.pdb
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.genruntimeconfig.cache
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\ref\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Datagrid.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets\projetGVoiture\obj\Debug\net7.0-windows\Datagrid.baml
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.AssemblyReference.cache
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\Achat.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\Facture.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\Voiture.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture_MarkupCompile.cache
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture_MarkupCompile.lref
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\refint\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.pdb
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.exe
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.deps.json
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.runtimeconfig.json
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.pdb
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\App.baml
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\Achat.baml
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\Facture.baml
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\Voiture.baml
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.g.resources
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.AssemblyInfoInputs.cache
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.AssemblyInfo.cs
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.CoreCompileInputs.cache
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.CopyComplete
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.genruntimeconfig.cache
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\ref\projetGVoiture.dll
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\FormAchat.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\FormAchat.baml
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\Archives.g.cs
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\obj\Debug\net7.0-windows\Archives.baml
+C:\Users\°°DELL°°\Desktop\D\projets C#\projetGVoiture\bin\Debug\net7.0-windows\itextsharp.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.exe
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.deps.json
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.runtimeconfig.json
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\projetGVoiture.pdb
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\itextsharp.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\MaterialDesignColors.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\BouncyCastle.Crypto.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.AssemblyReference.cache
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\Achat.g.cs
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\Archives.g.cs
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\Facture.g.cs
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\FormAchat.g.cs
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\Voiture.g.cs
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture_MarkupCompile.cache
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture_MarkupCompile.lref
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\App.baml
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\Achat.baml
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\Archives.baml
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\Facture.baml
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\FormAchat.baml
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\Voiture.baml
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.g.resources
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.AssemblyInfoInputs.cache
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.AssemblyInfo.cs
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.CoreCompileInputs.cache
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.csproj.CopyComplete
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\refint\projetGVoiture.dll
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.pdb
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\projetGVoiture.genruntimeconfig.cache
+C:\Users\patie\Downloads\Documents\projetGVoiture\projetGVoiture\obj\Debug\net7.0-windows\ref\projetGVoiture.dll
